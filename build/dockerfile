@@ -1,0 +1,3 @@
+ FROM node:latest
+ COPY ./src .
+ CMD node main.js
